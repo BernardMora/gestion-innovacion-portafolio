@@ -1,0 +1,59 @@
+Chesbrough, H. (2003). Open Innovation: The New Imperative for Creating and Profiting from Technology. Harvard Business School Press.
+Etzkowitz, H., & Leydesdorff, L. (2000). The dynamics of innovation: From National Systems and “Mode 2” to a Triple Helix of university–industry–government relations. Research Policy, 29(2), 109–123. https://doi.org/10.1016/S0048-7333(99)00055-4
+OECD. (2018). Oslo Manual 2018: Guidelines for Collecting, Reporting and Using Data on Innovation. OECD Publishing. https://doi.org/10.1787/9789264304604-en
+WIPO. (2023). Global Innovation Index. https://www.wipo.int/global_innovation_index
+CONAHCYT. Gobierno de México. https://www.gob.mx/conahcyt
+INEGI. Indicadores sobre ciencia, tecnología e innovación. https://www.inegi.org.mx
+Universidad Autónoma de Baja California. https://www.uabc.mx
+Gobierno del Estado de Baja California. https://www.bajacalifornia.gob.mx
+Massuh-Villavicencio, C. (2026). Portafolios digitales con Google Sites para evaluar aprendizajes en docentes en formación inicial universitaria. Revista EDUCA, 8(1). https://doi.org/10.55040/vm811m14
+Leal Sorriente, E. (2019). El portafolio de evidencias como herramienta de evaluación en la educación media y universitaria. Mi Rincón de Aprendizaje. https://mirincondeaprendizaje.com
+Secretaría de Economía / Gobierno de Baja California. (s.f.). Instituto Estatal del Emprendedor: Servicios de apoyo en propiedad intelectual. Recuperado de https://www.bajacalifornia.gob.mx/bcemprendimiento
+Marcapolis. (s.f.). Servicios de registro de marcas en Tijuana. Blvd. Sánchez Taboada 10488, Zona Urbana Río Tijuana.
+Instituto Mexicano de la Propiedad Industrial (IMPI). (2020). Ley Federal de Protección a la Propiedad Industrial. Diario Oficial de la Federación. Última reforma publicada el 20 de julio de 2020.
+Instituto Nacional del Derecho de Autor (INDAUTOR). (2021). Ley Federal del Derecho de Autor. Reglamento y acuerdos administrativos vigentes.
+Rodríguez León, Y. J. (s.f.). Guía de propiedad intelectual para la Facultad de Contaduría y Administración UABC Tijuana. Departamento de Propiedad Intelectual y Transferencia (DPIT).
+Díaz Barriga, F., & Hernández, G. (2002). Estrategias docentes para un aprendizaje significativo: Una interpretación constructivista. McGraw-Hill. (Capítulo 12: Evaluación del aprendizaje).
+Barberá, E. (2005). Portafolios docentes y de aprendizaje: Una experiencia de formación en la Universidad a través de la Web. Revista de Universidad y Sociedad del Conocimiento (RUSC), 2(2), 1-11.
+Klenowski, V. (2004). Portfolios for learning, assessment and professional development in higher education. Assessment & Evaluation in Higher Education, 29(4), 441-450
+Leiner, B. M., Cerf, V. G., Clark, D. D., Kahn, R. E., Kleinrock, L., Lynch, D. C., Postel, J., Roberts, L. G., & Wolff, S. (2009). A brief history of the Internet. ACM SIGCOMM Computer Communication Review, 39(5), 22–31. https://doi.org/10.1145/1629607.1629613
+Riordan, M., & Hoddeson, L. (1997). Crystal fire: The invention of the transistor and the birth of the information age. W. W. Norton & Company.
+Shockley, W., Bardeen, J., & Brattain, W. H. (1948). The electronic theory of the transistor. Bell System Technical Journal, 28(3), 435–489. https://doi.org/10.1002/j.1538-7305.1949.tb03645.x
+México Evalúa (2025). Tendrá presupuesto 2025 nivel más bajo en ciencia desde 2008. Recuperado de mexicoevalua.org
+IMPI (2026). México alcanza cifra histórica de patentes concedidas a personas inventoras nacionales en 2025. Recuperado de poderinformativo.com.mx
+El Financiero (2025). México logró 700 patentes en 2024 y busca superar las mil este año: IMPI.
+Morales, S. & Villavicencio, D. (2019). Tendencias tecnológicas en el sector biotecnológico: análisis de patentes en México y Estados Unidos. Scielo.
+UPRESS (2024). A la baja la inversión en investigación y desarrollo tecnológico en México.
+Data México / Secretaría de Economía (2024). Servicios de Investigación Científica y Desarrollo.
+ITMasters Mag (2025). Avances tecnológicos actuales en México 2024-2025.
+Quinta Fuerza (2025). México busca superar las mil patentes de semiconductores en 2025.
+Líder Empresarial (2024). Radiografía de innovación: patentes en México.
+Beltrán-Morales, L. F., Almendarez-Hernández, M. A. & Jefferson, D. J. (2018). El efecto de la innovación en el desarrollo y crecimiento de México: una aproximación usando las patentes. Revista Problemas del Desarrollo, 195(49), 55–76.
+Hoffmann, M., Nagle, F., & Zhou, Y. (2024). The value of open source software. Harvard Business School Working Paper, No. 24-038. https://doi.org/10.2139/ssrn.4693148
+Hightower, K. (2019). Open source is not about you. En GitHub Universe keynote address. GitHub.
+Linux Foundation. (2024). About the Linux Foundation. https://www.linuxfoundation.org/about
+Micheli, J., & Oliver, R. (2017). Empresas de software en México y sus vínculos de desarrollo local. Problemas del Desarrollo, vol. 48, núm. 190, pp. 37–59. Universidad Nacional Autónoma de México.
+Raymond, E. S. (1999). The cathedral and the bazaar: Musings on Linux and Open Source by an accidental revolutionary. O'Reilly Media.
+StatCounter. (2024). Mobile operating system market share worldwide. https://gs.statcounter.com/os-market-share/mobile/worldwide
+Torvalds, L. (1991, agosto 25). What would you like to see most in minix? [Mensaje en grupo de noticias]. comp.os.minix. https://groups.google.com/g/comp.os.minix/c/dlNtH7RRrGA
+Williams, S. (2002). Free as in freedom: Richard Stallman's crusade for free software. O'Reilly Media.
+Ciudad Creativa Digital. (s.f.). Ciudad Creativa Digital Guadalajara. https://ciudadcreativadigital.mx/ciudad-creativa-digital-guadalajara/
+Ciudad Creativa Digital / Fideicomiso. (2024). Plan Institucional (actualización julio 2024). Gobierno de Jalisco. https://plan.jalisco.gob.mx/wp-content/uploads/2024/11/Fideicomiso-Ciudad-Creativa-Digital.pdf
+Clúster Industrial. (2025, noviembre 3). IBM celebra medio siglo en Guadalajara y refuerza su papel en la innovación tecnológica de México. https://clusterindustrial.com.mx/ibm-celebra-medio-siglo-en-guadalajara-y-refuerza-su-papel-en-la-innovacion-tecnologica-de-mexico/
+ConnectAmericas. (s.f.). Guadalajara, el Silicon Valley mexicano. https://connectamericas.com/es/content/guadalajara-el-silicon-valley-mexicano
+El Universal / Confabulario. (s.f.). El escándalo de Ciudad Creativa Digital. https://confabulario.eluniversal.com.mx/el-escandalo-de-ciudad-creativa-digital/
+Etzkowitz, H., & Leydesdorff, L. (2000). The dynamics of innovation: from National Systems and 'Mode 2' to a Triple Helix of university–industry–government relations. Research Policy, 29(2), 109–123. https://doi.org/10.1016/S0048-7333(99)00055-4
+Grupo Ruga. (2021, agosto 27). Guadalajara: Clúster tecnológico. https://www.gruporuga.com/blog/27-08-2021/guadalajara-cluster-tecnologico
+Líder Empresarial. (2025, abril 16). Jalisco: Un clúster tecnológico de innovación, empresas y talento. https://www.liderempresarial.com/jalisco-un-cluster-tecnologico-de-innovacion-empresas-y-talento/
+Líder Empresarial. (2025, agosto 22). Torre B en Ciudad Creativa Digital: datos y beneficios. https://www.liderempresarial.com/torre-b-en-ciudad-creativa-digital-datos-y-beneficios/
+Micheli, J., & Oliver, R. (2017). Empresas de software en México y sus vínculos de desarrollo local. Problemas del Desarrollo, 48(190), 37–59. Universidad Nacional Autónoma de México.
+Milenio. (2021, diciembre 6). Guadalajara, el Silicon Valley de México. https://www.milenio.com/negocios/financial-times/guadalajara-el-silicon-valley-de-mexico
+Xinhua / Cobertura 360. (2025, junio 27). Del maíz al chip: Así fue como Guadalajara emergió siendo el "Silicon Valley" mexicano. https://cobertura360.mx/2025/07/02/inteligencia-artificial/del-maiz-al-chip-asi-fue-como-guadalajara-emergio-siendo-el-silicon-valley-mexicano/
+Cuentamealgobueno. (2013, noviembre). Tijuana Innovadora. https://www.cuentamealgobueno.com/2013/11/tijuana-innovadora/
+El Imparcial. (2024, agosto 4). Frontera 25 años: Tijuana Innovadora, una 'ventana' al mundo. https://www.elimparcial.com/tij/tijuana/2024/08/04/frontera-25-anos-tijuana-innovadora-una-ventana-al-mundo/
+Fundación Telefónica México. (2024, febrero 21). Fundación Telefónica y Tijuana Innovadora: alianza para mejorar la empleabilidad de los tijuanenses y mexicalenses. https://www.telefonica.com.mx/fundacion-telefonica-y-tijuana-innovadora-alianza-para-mejorar-la-empleabilidad-de-los-tijuanenses-y-mexicalenses/
+Micheli, J., & Oliver, R. (2017). Empresas de software en México y sus vínculos de desarrollo local. Problemas del Desarrollo, 48(190), 37–59. Universidad Nacional Autónoma de México.
+Noro. (2025, junio 26). Tijuana Innovadora: movimiento que sigue transformando la ciudad. https://noro.mx/baja-california/tijuana-innovadora-baja-california/
+Semanario ZETA. (2024, enero 11). El CECUT y Tijuana Innovadora. https://zetatijuana.com/2024/01/el-cecut-y-tijuana-innovadora/
+Tijuana Innovadora / Uniradio Informa. (2025, julio 21). Lanzan innovador programa de impulso a emprendedores formalizados y no formalizados en Baja California. https://www.uniradiobaja.com/negocios/lanzan-innovador-programa-impulso-emprendedores-formalizados-formalizados-baja-california-n831234
+Tijuana Innovadora. (s.f.). Quiénes somos. https://tijuanainnovadora.org/quienes-somos/

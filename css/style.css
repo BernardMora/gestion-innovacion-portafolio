@@ -34,7 +34,7 @@ body {
   overflow-x: hidden;
 }
 
-h1, h2, h3 {
+h1, h2, h3, h4 {
   font-family: var(--font-heading);
   font-weight: 700;
 }
@@ -61,7 +61,7 @@ h1, h2, h3 {
 
 /* Header & Nav */
 header {
-  padding: 2rem 0;
+  padding: 1.5rem 0;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -70,6 +70,7 @@ header {
   z-index: 100;
   background: rgba(248, 250, 252, 0.8);
   backdrop-filter: blur(10px);
+  border-bottom: 1px solid var(--glass-border);
 }
 
 .logo {
@@ -99,13 +100,13 @@ nav a {
   transition: color 0.3s ease;
 }
 
-nav a:hover {
+nav a:hover, nav a.active {
   color: var(--primary);
 }
 
 /* Hero Section */
 .hero {
-  padding: 6rem 0;
+  padding: 5rem 0 3rem;
   text-align: center;
 }
 
@@ -121,10 +122,144 @@ nav a:hover {
   font-size: 1.2rem;
   color: var(--text-muted);
   max-width: 600px;
-  margin: 0 auto;
+  margin: 0 auto 2rem;
 }
 
-/* Grid Section */
+.hero-buttons {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+}
+
+.btn-primary, .btn-secondary {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  border-radius: 12px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+.btn-primary {
+  background: var(--primary);
+  color: white;
+  box-shadow: 0 4px 14px 0 hsla(158, 64%, 52%, 0.39);
+}
+
+.btn-primary:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(0, 118, 255, 0.23);
+  background: var(--primary-dark);
+}
+
+.btn-secondary {
+  background: var(--card-bg);
+  color: var(--text-main);
+  border: 1px solid var(--glass-border);
+}
+
+.btn-secondary:hover {
+  background: white;
+  transform: translateY(-2px);
+}
+
+/* Ficha Académica & Stats */
+.dashboard-grid {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 2rem;
+  margin-bottom: 4rem;
+}
+
+.ficha-academica {
+  background: var(--card-bg);
+  backdrop-filter: blur(12px);
+  border: 1px solid var(--glass-border);
+  border-radius: 20px;
+  padding: 2rem;
+  box-shadow: var(--shadow);
+}
+
+.ficha-academica h2 {
+  font-size: 1.5rem;
+  margin-bottom: 1.5rem;
+  color: var(--primary-dark);
+}
+
+.ficha-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+}
+
+.ficha-item {
+  display: flex;
+  flex-direction: column;
+}
+
+.ficha-label {
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  font-weight: 700;
+  letter-spacing: 0.05em;
+}
+
+.ficha-value {
+  font-size: 1.1rem;
+  font-weight: 500;
+  color: var(--text-main);
+}
+
+.stats-container {
+  display: grid;
+  grid-template-rows: repeat(4, 1fr);
+  gap: 1rem;
+}
+
+.stat-card {
+  background: var(--primary-light);
+  border-radius: 15px;
+  padding: 1.25rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid rgba(255,255,255,0.5);
+}
+
+.stat-info {
+  display: flex;
+  flex-direction: column;
+}
+
+.stat-number {
+  font-size: 1.5rem;
+  font-weight: 800;
+  color: var(--primary-dark);
+  font-family: var(--font-heading);
+}
+
+.stat-label {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  font-weight: 600;
+}
+
+/* Resumen Section */
+.resumen {
+  background: var(--card-bg);
+  border-radius: 20px;
+  padding: 2rem;
+  margin-bottom: 4rem;
+  border: 1px solid var(--glass-border);
+  text-align: center;
+}
+
+/* Common Section Styles */
+section {
+  padding: 4rem 0;
+}
+
 .section-title {
   font-size: 2rem;
   margin-bottom: 2rem;
@@ -143,18 +278,29 @@ nav a:hover {
   border-radius: 2px;
 }
 
+/* Practices Grid */
+.unidad-block {
+  margin-bottom: 3rem;
+}
+
+.unidad-title {
+  font-size: 1.5rem;
+  color: var(--text-main);
+  margin-bottom: 1.5rem;
+  border-bottom: 2px solid var(--glass-border);
+  padding-bottom: 0.5rem;
+}
+
 .grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   gap: 2rem;
-  margin-bottom: 4rem;
 }
 
 /* Practice Card */
 .card {
   background: var(--card-bg);
   backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
   border: 1px solid var(--glass-border);
   border-radius: 20px;
   padding: 2rem;
@@ -166,7 +312,7 @@ nav a:hover {
 }
 
 .card:hover {
-  transform: translateY(-8px);
+  transform: translateY(-5px);
   box-shadow: 0 12px 48px 0 rgba(31, 38, 135, 0.15);
 }
 
@@ -177,6 +323,10 @@ nav a:hover {
   color: var(--primary);
   font-weight: 700;
   margin-bottom: 1rem;
+  display: inline-block;
+  background: var(--primary-light);
+  padding: 0.25rem 0.75rem;
+  border-radius: 20px;
 }
 
 .card-title {
@@ -194,25 +344,65 @@ nav a:hover {
 .card-btn {
   display: inline-block;
   text-decoration: none;
-  background: var(--primary-light);
+  background: transparent;
   color: var(--primary-dark);
-  padding: 0.75rem 1.5rem;
-  border-radius: 12px;
+  border: 1px solid var(--primary-dark);
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
   font-weight: 600;
   text-align: center;
-  transition: background 0.3s ease, color 0.3s ease;
+  transition: all 0.3s ease;
 }
 
 .card-btn:hover {
   background: var(--primary);
   color: white;
+  border-color: var(--primary);
+}
+
+/* Synapse Section */
+#synapse .card-btn {
+  background: var(--primary);
+  color: white;
+}
+#synapse .card-btn:hover {
+  background: var(--primary-dark);
+}
+
+/* Bibliography */
+.biblio-list {
+  background: var(--card-bg);
+  border-radius: 20px;
+  padding: 2rem 3rem;
+  border: 1px solid var(--glass-border);
+  box-shadow: var(--shadow);
+}
+
+.biblio-list ol {
+  padding-left: 1rem;
+}
+
+.biblio-list li {
+  margin-bottom: 1rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid rgba(0,0,0,0.05);
+  color: var(--text-main);
+  font-size: 0.95rem;
+  word-break: break-word;
+}
+
+.biblio-list li:last-child {
+  border-bottom: none;
+  margin-bottom: 0;
+  padding-bottom: 0;
 }
 
 /* Footer */
 footer {
-  padding: 4rem 0;
+  padding: 3rem 0;
   text-align: center;
   border-top: 1px solid rgba(0,0,0,0.05);
+  margin-top: 4rem;
 }
 
 footer p {
@@ -222,15 +412,24 @@ footer p {
 
 /* Mobile adjustments */
 @media (max-width: 768px) {
+  .dashboard-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .ficha-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .stats-container {
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto;
+  }
+  
   .hero h1 {
     font-size: 2.5rem;
   }
   
-  nav {
-    display: none; /* For simplicity in this static version, we could add a toggle later */
-  }
-  
-  header {
-    justify-content: center;
+  nav ul {
+    display: none;
   }
 }
